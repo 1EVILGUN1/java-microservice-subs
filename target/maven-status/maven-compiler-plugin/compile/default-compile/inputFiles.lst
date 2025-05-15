@@ -1,0 +1,17 @@
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/SubsApplication.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/controller/SubscriptionController.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/controller/UserController.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/dto/SubscriptionRequestDto.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/dto/SubscriptionResponseDto.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/dto/TopSubscriptionDto.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/dto/UserRequestDto.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/dto/UserResponseDto.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/exception/GlobalExceptionHandler.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/mapper/SubscriptionMapper.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/mapper/UserMapper.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/model/Subscription.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/model/User.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/repository/SubscriptionRepository.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/repository/UserRepository.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/service/SubscriptionService.java
+/Users/admin/Documents/java-microservice-subs/src/main/java/com/microservice/subs/service/UserService.java

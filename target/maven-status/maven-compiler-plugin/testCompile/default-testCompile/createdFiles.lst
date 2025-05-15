@@ -1,0 +1,4 @@
+com/microservice/subs/controller/SubscriptionControllerIntegrationTest.class
+com/microservice/subs/service/SubscriptionServiceTest.class
+com/microservice/subs/service/UserServiceTest.class
+com/microservice/subs/controller/UserControllerIntegrationTest.class
